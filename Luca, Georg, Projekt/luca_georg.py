@@ -1,2 +1,1 @@
-#Luca du frecher
-#  Hasthag Jean
+print("Wir sind Super duper Cool")
