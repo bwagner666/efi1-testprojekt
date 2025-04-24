@@ -1,1 +1,1 @@
-print("Wir sind Super duper Cool")
+print("Wir sind Super duper Coole Raucher")
